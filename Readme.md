@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[HomeController.cs](./CS/WebApplication/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/WebApplication/Controllers/HomeController.vb))**
+* [_GridViewPartial.cshtml](./CS/WebApplication/Views/Home/_GridViewPartial.cshtml)
+* [Index.cshtml](./CS/WebApplication/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to use WCF Data Services to bind GridView Extension to data
 
 
